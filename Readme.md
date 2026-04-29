@@ -1,4 +1,4 @@
-# PraxisWiki
+# PraxisWiki Gemeinschaftspraxis Soika
 
 Anleitungen und Dokumentationen für verschiedene Tools und Prozesse in unserer Praxis.
 
