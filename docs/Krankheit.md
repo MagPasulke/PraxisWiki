@@ -2,6 +2,8 @@
 
 Dieses Dokument beschreibt, wie Sie eine Krankmeldung in der TimeMoto Cloud erfassen.
 
+> **Hinweis:** Die Erfassung in TimeMoto ersetzt nicht die persönliche Krankmeldung in der Praxis. Sie dient ausschließlich der Abbildung in der Zeitwirtschaft. Bitte informieren Sie die Praxis weiterhin wie gewohnt über Ihre Abwesenheit.
+
 ---
 
 ## Schritt 1: Profil öffnen
