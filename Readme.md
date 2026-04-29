@@ -1,9 +1,10 @@
 # Übersicht
 
-Time Moto Hilfe-Center
-https://help.timemoto.com/de
+Dieses Dokument enthält Anleitungen und Dokumentationen für verschiedene Tools und Prozesse in unserer Praxis.
 
-## Inhalt
+## TimeMoto
+
+[TimeMoto Hilfe-Center](https://help.timemoto.com/de)
 
 [1 - Erstanmeldung](docs/Erstanmeldung.md)
 2 - Zeitkorrektur
