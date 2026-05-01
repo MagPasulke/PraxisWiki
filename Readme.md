@@ -13,7 +13,7 @@ TimeMoto ist unsere Software zur Zeiterfassung. Hier finden Sie Anleitungen zur 
 | # | Thema | Anleitung |
 |---|-------|-----------|
 | 1 | Erstanmeldung | [Anleitung](docs/Erstanmeldung.md) |
-| 2 | Zeitkorrektur | — |
+| 2 | Zeitkorrektur | [Anleitung](docs/Zeitkorrektur.md) |
 | 3 | **Abwesenheit** | |
 | 3.1 | Urlaub | [Anleitung](docs/Urlaubsantrag.md) |
 | 3.2 | Gleitzeitabbau | [Anleitung](docs/Gleitzeitabbau.md) |
