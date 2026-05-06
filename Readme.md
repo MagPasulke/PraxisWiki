@@ -8,7 +8,7 @@ Anleitungen und Dokumentationen für verschiedene Tools und Prozesse in unserer 
 
 TimeMoto ist unsere Software zur Zeiterfassung. Hier finden Sie Anleitungen zur Erstanmeldung, zur Korrektur Ihrer Arbeitszeiten, zum Einreichen von Abwesenheiten wie Urlaub, Gleitzeitabbau oder Krankheit sowie zur Nutzung der TimeMoto-App.
 
-> [TimeMoto Hilfe-Center](https://help.timemoto.com/de)
+> [TimeMoto Cloud WebApp](https://cloud.timemoto.com/#/) | [TimeMoto Hilfe-Center](https://help.timemoto.com/de)
 
 | # | Thema | Anleitung |
 |---|-------|-----------|
